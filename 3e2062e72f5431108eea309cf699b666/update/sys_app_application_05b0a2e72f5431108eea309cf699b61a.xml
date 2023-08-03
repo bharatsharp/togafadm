@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>This application help development of architecture using TOGAF ADM framework</description>
+        <device_type>browser</device_type>
+        <hint>This application help development of architecture using TOGAF ADM framework</hint>
+        <name/>
+        <order/>
+        <roles>x_1078462_togafadm.adm_analyst,x_1078462_togafadm.adm_manager,x_1078462_togafadm.adm_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-03 03:13:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>05b0a2e72f5431108eea309cf699b61a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TOGAFADM</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="TOGAFADM" source="x_1078462_togafadm">3e2062e72f5431108eea309cf699b666</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TOGAFADM">3e2062e72f5431108eea309cf699b666</sys_scope>
+        <sys_update_name>sys_app_application_05b0a2e72f5431108eea309cf699b61a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-03 03:13:05</sys_updated_on>
+        <title>TOGAFADM</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
